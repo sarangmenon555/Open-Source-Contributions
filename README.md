@@ -2,6 +2,11 @@
 
 A public record of my open-source contributions, development activities, issues, pull requests, code reviews and learning journey across open-source communities.
 
+## Links
+
+- Portfolio: [https://www.sarangmenon.me/open-source](https://www.sarangmenon.me/open-source)
+- GitHub: [https://github.com/sarangmenon555](https://github.com/sarangmenon555)
+
 ## About This Tracker
 
 I'm Sarang Menon, a high-school student and developer from Kerala, India, interested in open-source software, full-stack development, AI/ML, Python, and building technology for real-world problems.
@@ -66,4 +71,4 @@ I believe meaningful open-source participation is about more than the number of 
 
 This tracker is continuously updated as I contribute to more projects and grow as a developer.
 
-GitHub: https://github.com/sarangmenon555
+Portfolio: [https://www.sarangmenon.me/open-source](https://www.sarangmenon.me/open-source) | GitHub: [https://github.com/sarangmenon555](https://github.com/sarangmenon555)
